@@ -9,23 +9,23 @@ AFRAME.registerComponent("tour", {
       {
         id: "taj-mahal",
         title: "Taj Mahal",
-        url: "./assets/thumbnails/taj_mahal.png",
+        url: "./assets/thumbnails/a.png",
       },
       {
         id: "budapest",
         title: "Budapest",
-        url: "./assets/thumbnails/budapest.jpg",
+        url: "./assets/thumbnails/b.jpg",
       },
 
       {
         id: "eiffel-tower",
         title: "Eiffel Tower",
-        url: "./assets/thumbnails/eiffel_tower.jpg",
+        url: "./assets/thumbnails/c.jpg",
       },
       {
         id: "new-york-city",
         title: "New York City",
-        url: "./assets/thumbnails/new_york_city.png",
+        url: "./assets/thumbnails/d.png",
       },
     ];
     
