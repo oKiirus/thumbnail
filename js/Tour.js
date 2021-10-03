@@ -9,7 +9,7 @@ AFRAME.registerComponent("tour", {
       {
         id: "taj-mahal",
         title: "Taj Mahal",
-        url: "./assets/thumbnails/a.png",
+        url: "./assets/thumbnails/a.jpg",
       },
       {
         id: "budapest",
@@ -25,7 +25,7 @@ AFRAME.registerComponent("tour", {
       {
         id: "new-york-city",
         title: "New York City",
-        url: "./assets/thumbnails/d.png",
+        url: "./assets/thumbnails/d.jpg",
       },
     ];
     
